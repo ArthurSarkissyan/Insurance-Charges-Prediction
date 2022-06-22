@@ -11,4 +11,5 @@
 
 ## Code and Resources Used
 **Python Version:** 3.9 <br> 
-**Packages:** numpy, pandas, seaborn, sklearn
+**Packages:** numpy, pandas, seaborn, sklearn <br>
+**Data Source:** https://www.kaggle.com/datasets/mirichoi0218/insurance
