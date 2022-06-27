@@ -7,6 +7,9 @@
 - I tested linear regression (with lasso, ridge, and elastic net regularizations) as well as random forest regression. 
 - Principal component analysis (PCA) was used to reduce dimensionality for facilitated visualization.
 
+<p align="center">
+<img src="regression.png" width="400" alt="regression">
+</p>
 
 ## Code and Resources Used
 **Python Version:** 3.9 <br> 
